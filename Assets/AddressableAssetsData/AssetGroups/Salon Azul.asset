@@ -14,7 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Salon Azul
   m_GUID: e8cfaa9df3db052428ac46b4475cda28
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: a8b561426f57b69478dc794ba261b26c
+    m_Address: AZ_Principal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7fcde95bc98c7fd4ca5f7ff6e63587a2, type: 2}
   m_SchemaSet:

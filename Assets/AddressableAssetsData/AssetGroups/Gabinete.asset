@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Gabinete
   m_GUID: 15ae69e4d3021f745b381d963ed31e4e
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 48ffa247f9df74841a2de029a4a16272
+    m_Address: SG_Principal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7fcde95bc98c7fd4ca5f7ff6e63587a2, type: 2}
   m_SchemaSet:

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2581892921793944687
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Piso_Balcon
+  m_Shader: {fileID: -6465566751694194690, guid: c7a31a031552d0e428d982093bd6606c, type: 3}
+  m_Parent: {fileID: 2100000, guid: b56b76016e4bf3a4bb9cabd62e5e33dd, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _COLORMAP
+  - _MAPPING1_TRIPLANAR
+  - _METALLICMAP
+  - _ROUGHNESSMAP
+  m_InvalidKeywords:
+  - _USECOLORMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 24d974fb9b9b61744b01a8f633725ca8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a1eb7801a6e5a2b4fb18b6099c5bf601, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _R_M_AO:
+        m_Texture: {fileID: 2800000, guid: bb13792dd0a29f64187b3ffdee55b6f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AOBrillo: 1.09
+    - _Blend: 0
+    - _Brillo: 0.7
+    - _BrilloRoughness: 2
+    - _COLORMAP: 1
+    - _Contraste: 0.84
+    - _Glossiness: 1
+    - _HUE: 0
+    - _MAPPING1: 2
+    - _METALLICMAP: 1
+    - _Metallic: 0
+    - _MetallicBrillo: 1
+    - _MixRoughness: 0
+    - _NormalDetails: 0.19
+    - _NormalStrenght: 0.2
+    - _PowerTint: 0.633
+    - _RoughnessContrast: 1
+    - _Saturacion: 1.11
+    - _UseAoMap: 1
+    - _UseColorMap: 1
+    - _UseMetallicMap: 0
+    - _UseRoughnessMap: 1
+    m_Colors:
+    - _AOClamp: {r: 0.84, g: 1, b: 0, a: 0}
+    - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _ColorClamp: {r: 0, g: 1, b: 0, a: 0}
+    - _Offset: {r: -0.09, g: 0, b: 0, a: 0}
+    - _Tile: {r: 0.9, g: 0.9, b: 1, a: 0}
+    - _Tint: {r: 0.39607847, g: 0.20784315, b: 0.12941177, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

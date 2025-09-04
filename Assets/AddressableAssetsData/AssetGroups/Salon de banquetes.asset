@@ -14,7 +14,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Salon de banquetes
   m_GUID: dcd3597b59c17f046992a74537487ca0
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 0c8f3af977979d64fbbee4b3128fb215
+    m_Address: SB_Subescena4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 195f208958b1a20448a47f90f8697121
+    m_Address: SB_Principal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 618c9c6cfbe381147ab47b44ae5deb26
+    m_Address: SB_Subescena3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5d2ea5a4fbfe074da77fc367dad2b79
+    m_Address: SB_Subescena1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd4de86a75d26714abb2b971314cbf60
+    m_Address: SB_Subescena2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7fcde95bc98c7fd4ca5f7ff6e63587a2, type: 2}
   m_SchemaSet:

@@ -16,13 +16,13 @@ MonoBehaviour:
   m_GUID: 8cb6981ce9321024798976091afea260
   m_SerializeEntries:
   - m_GUID: 4f67d09f3fc25b94cbdc2c003d306bd2
-    m_Address: Assets/_Carondelet/Scenes/Escenario 1 - Exterior del palacio.unity
+    m_Address: MP_Maqueta
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6d6ff59c28656774aa82f9a115c686a0
-    m_Address: Assets/_Carondelet/Scenes/Escenario Dialogo inicial Baron.unity
+    m_Address: MP_Dialogos
     m_ReadOnly: 0
     m_SerializedLabels:
     - default

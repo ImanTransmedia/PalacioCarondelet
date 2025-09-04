@@ -14,7 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Despacho
   m_GUID: ee5f7f2628482d04b8d58dce68ed6d63
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 5a2c3859b6c63a4458cd84fcd7ce49fe
+    m_Address: DP_Principal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7fcde95bc98c7fd4ca5f7ff6e63587a2, type: 2}
   m_SchemaSet:

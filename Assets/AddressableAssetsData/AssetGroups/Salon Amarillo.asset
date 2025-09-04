@@ -14,7 +14,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Salon Amarillo
   m_GUID: ed8ca89c5c754b346be7448249bcc79d
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 475f1696236ee3047bd6d9e8ff24d4a2
+    m_Address: SA_Subescena2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bbedf658f44811458506b56e5fd891d
+    m_Address: SA_Subescena1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a728bb5a6a49b1943b108f42ce85948b
+    m_Address: SA_Subescena4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e11a8ef7b1c79864f9d35963956fbd71
+    m_Address: SA_Principal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7fcde95bc98c7fd4ca5f7ff6e63587a2, type: 2}
   m_SchemaSet:
