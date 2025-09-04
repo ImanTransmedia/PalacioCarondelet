@@ -14,13 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Balcon
   m_GUID: 3a6e4788f0322c6499cb062b86b463b1
-  m_SerializeEntries:
-  - m_GUID: 02cf1bbabcd8c20429da2a81b66ab6b9
-    m_Address: Assets/_Carondelet/Scenes/Armado De Escenas Final/Balcon Presidencial.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7fcde95bc98c7fd4ca5f7ff6e63587a2, type: 2}
   m_SchemaSet:
