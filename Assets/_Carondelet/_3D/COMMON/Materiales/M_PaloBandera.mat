@@ -26,13 +26,11 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ALPHATEST_ON
-  - _COLORMAP
   - _MAPPING1_UV
-  - _ROUGHNESSMAP
+  - _USECOLORMAP
   m_InvalidKeywords:
   - _MAPPINGTYPE_STANDAR
   - _TYPEMATERIAL_STANDAR
-  - _USECOLORMAP
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
@@ -97,10 +95,6 @@ Material:
         m_Texture: {fileID: 2800000, guid: ec9889eed68465343886ffcfbc674e1b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SSSMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_c0f031491826440498514db3059c7b09_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: f8b8162c89ae25c43ba11615f193962b, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -135,7 +129,6 @@ Material:
     - _Brillo: 1
     - _BrilloRoughness: 1
     - _BumpScale: 1
-    - _COLORMAP: 1
     - _CastShadows: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -153,8 +146,6 @@ Material:
     - _FresnelReflection: 0
     - _Fuzzi: 1
     - _FuzziPower: 2
-    - _FuzzyBias: 0
-    - _FuzzyScale: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -162,7 +153,6 @@ Material:
     - _InvertRoughness: 0
     - _MAPPING1: 0
     - _MAPPINGTYPE: 0
-    - _METALLICMAP: 0
     - _Metallic: 0
     - _MetallicBrillo: 1
     - _MetallicContraste: 1
@@ -182,14 +172,10 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RANDOMHUE: 0
-    - _ROUGHNESSMAP: 1
-    - _RandomHUE: 0
     - _RandomHue: 0
     - _ReceiveShadows: 1
     - _Rotation: 0
     - _RoughnessContrast: 1
-    - _SSS_Intensity: 0
-    - _SSS_ShadowStrenght: 1
     - _Saturacion: 1
     - _Seed: 0
     - _Smoothness: 0.5
@@ -210,7 +196,6 @@ Material:
     - _UseMetallicMap: 1
     - _UseNormalMap: 1
     - _UseRoughnessMap: 1
-    - _UseSSS: 0
     - _UseTriplanar: 0
     - _WorkflowMode: 1
     - _ZTest: 4
@@ -221,13 +206,11 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BlancosYNegros: {r: 0, g: 1, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _ColorClamp: {r: 0, g: 1, b: 0, a: 0}
     - _ColorFuzzi: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _M_B_N: {r: 0, g: 1, b: 0, a: 0}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _SpecularColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 0}
     - _Tile: {r: 1, g: 1, b: 1, a: 0}
     - _Tint: {r: 0, g: 0, b: 0, a: 0}
     - _TriplanarOffset: {r: 0, g: 0, b: 0, a: 0}

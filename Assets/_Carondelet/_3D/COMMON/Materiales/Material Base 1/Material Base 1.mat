@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 1b631f5a301888c4e945aa4145c367be, type: 3}
+        m_Texture: {fileID: 2800000, guid: 33ec5757d8ddf624e9109cebbe17539d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -75,7 +75,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: baeeebe498d19724b95ea486b79844c9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 70b7c29f2f5156840b898bb38290daef, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -91,7 +91,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _R_M_AO:
-        m_Texture: {fileID: 2800000, guid: 28305b39aa551cb498249512f67cd0ff, type: 3}
+        m_Texture: {fileID: 2800000, guid: 23cd086570c4784428901661c1a4b42f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SSSMap:
@@ -125,14 +125,14 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BlendRoughness: 1
-    - _Brillo: 2.29
+    - _Brillo: 1.9
     - _BrilloRoughness: 1
     - _BumpScale: 1
     - _COLORMAP: 1
     - _CastShadows: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _Contraste: 1.62
+    - _Contraste: 1
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -148,7 +148,7 @@ Material:
     - _FuzzyBias: 0
     - _FuzzyScale: 1
     - _GlossMapScale: 0
-    - _Glossiness: 0
+    - _Glossiness: 0.5
     - _GlossyReflections: 0
     - _HUE: 0
     - _InvertRoughness: 0
@@ -180,7 +180,7 @@ Material:
     - _RoughnessContrast: 1
     - _SSS_Intensity: 0
     - _SSS_ShadowStrenght: 1
-    - _Saturacion: 1.49
+    - _Saturacion: 0.58
     - _Seed: 0
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0

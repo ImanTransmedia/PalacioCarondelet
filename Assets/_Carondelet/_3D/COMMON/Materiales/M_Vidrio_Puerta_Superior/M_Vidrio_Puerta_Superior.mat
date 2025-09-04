@@ -9,13 +9,12 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: M_Vidrio_Puerta_Superior
   m_Shader: {fileID: -6465566751694194690, guid: c7a31a031552d0e428d982093bd6606c, type: 3}
-  m_Parent: {fileID: 2100000, guid: 470c615a3d1f6c849adc88ff2e04204b, type: 2}
+  m_Parent: {fileID: 2100000, guid: 0b72afbd674a9384f9e024be2fe3e96a, type: 2}
   m_ModifiedSerializedProperties: 16
   m_ValidKeywords:
   - _ALPHATEST_ON
   - _COLORMAP
   - _MAPPING1_UV
-  - _ROUGHNESSMAP
   m_InvalidKeywords:
   - _MAPPINGTYPE_STANDAR
   - _TYPEMATERIAL_STANDAR

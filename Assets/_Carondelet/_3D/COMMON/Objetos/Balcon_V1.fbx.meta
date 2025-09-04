@@ -50,7 +50,7 @@ ModelImporter:
       name: Tejados
     second: {fileID: 2100000, guid: 10c20f2d149965647874e2dbc078f019, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
