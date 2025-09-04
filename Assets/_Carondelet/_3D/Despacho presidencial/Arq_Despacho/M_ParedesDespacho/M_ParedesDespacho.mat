@@ -13,7 +13,8 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _COLORMAP
-  - _MAPPING1_UV
+  - _MAPPING1_PLANAR
+  - _METALLICMAP
   - _ROUGHNESSMAP
   m_InvalidKeywords:
   - _TYPEMATERIAL_STANDAR
@@ -35,7 +36,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 5cea262302f3ee34f877e585928a305b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 61616e32d22efdd4f895602088d12da5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -63,7 +64,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 8cf4ddaf9ff5905449711285d6e431d0, type: 3}
+        m_Texture: {fileID: 2800000, guid: d221b234a8c06fe479ec097949cf0fbc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -79,7 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _R_M_AO:
-        m_Texture: {fileID: 2800000, guid: e3ef180deadd0314382f415dfd801641, type: 3}
+        m_Texture: {fileID: 2800000, guid: 074c9e045a5cca74cbc59659c24d244b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SSSMap:
@@ -117,7 +118,7 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BlendRoughness: 1
-    - _Brillo: 0.55
+    - _Brillo: 0.83
     - _BrilloRoughness: 1
     - _BumpScale: 1
     - _COLORMAP: 1
@@ -145,8 +146,8 @@ Material:
     - _GlossyReflections: 1
     - _HUE: 0
     - _InvertRoughness: 0
-    - _MAPPING1: 0
-    - _METALLICMAP: 0
+    - _MAPPING1: 1
+    - _METALLICMAP: 1
     - _Metallic: 0
     - _MetallicBrillo: 1
     - _MetallicContraste: 1
@@ -157,7 +158,7 @@ Material:
     - _NoiseScale: 0
     - _NormalDetails: 0
     - _NormalOffsetDetalis: 0.5
-    - _NormalStrenght: 1
+    - _NormalStrenght: 0.34
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _PowerAO: 0.5
@@ -188,7 +189,7 @@ Material:
     - _USECOLORMAP: 1
     - _UVSec: 0
     - _UseAlphaMap: 0
-    - _UseAoMap: 0
+    - _UseAoMap: 1
     - _UseColorMap: 1
     - _UseDither: 0
     - _UseEmissiveMap: 0
@@ -212,7 +213,7 @@ Material:
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SpecularColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 0}
-    - _Tile: {r: 1, g: 1, b: 1, a: 0}
+    - _Tile: {r: 50, g: 50, b: 1, a: 0}
     - _Tint: {r: 0.77647066, g: 0.7176471, b: 0.6431373, a: 0}
     - _UvOffset: {r: 0, g: 0, b: 0, a: 0}
     - _UvTiling: {r: 1, g: 1, b: 0, a: 0}

@@ -11217,8 +11217,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b900b6d691ae49f8a12753b63b449e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sun: {fileID: 1973720398}
-  depthOfFieldTarget: {fileID: 0}
 --- !u!114 &763767862
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12574,7 +12572,6 @@ MonoBehaviour:
   - {fileID: 4034286}
   - {fileID: 375696939}
   - {fileID: 519658431}
-  - {fileID: 0}
   keyAssignments: 0101000002010000030100000401000005010000060100000701000008010000090100000001000005010000
 --- !u!114 &1121178627
 MonoBehaviour:
@@ -15000,7 +14997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 815cd6f82ecf0c74b8bbdf6a2f3e9017, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneAddress: Assets/_Carondelet/Scenes/Escenario Dialogo inicial Baron.unity
+  sceneAddress: MP_Dialogos
 --- !u!114 &1472026374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17117,7 +17114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 815cd6f82ecf0c74b8bbdf6a2f3e9017, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneAddress: Assets/_Carondelet/Scenes/Escenario Dialogo inicial Baron.unity
+  sceneAddress: MP_Dialogos
 --- !u!4 &1958627000
 Transform:
   m_ObjectHideFlags: 0

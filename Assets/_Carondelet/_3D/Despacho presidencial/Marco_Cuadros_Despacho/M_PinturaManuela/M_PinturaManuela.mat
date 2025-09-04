@@ -118,7 +118,7 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _BlendRoughness: 1
     - _Brillo: 1
-    - _BrilloRoughness: 1
+    - _BrilloRoughness: 0.8
     - _BumpScale: 1
     - _COLORMAP: 1
     - _CastShadows: 1

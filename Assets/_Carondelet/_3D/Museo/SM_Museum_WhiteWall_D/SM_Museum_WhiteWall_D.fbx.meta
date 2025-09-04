@@ -10,7 +10,7 @@ ModelImporter:
       name: M_Museum_WhiteWall_D
     second: {fileID: 2100000, guid: 996b8ec1499969b4ea83fe1bc4f9b5c3, type: 2}
   materials:
-    materialImportMode: 2
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
