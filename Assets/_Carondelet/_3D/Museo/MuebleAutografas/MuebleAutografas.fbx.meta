@@ -25,7 +25,7 @@ ModelImporter:
       name: Vidrioprincipal
     second: {fileID: 2100000, guid: a80e4baa7f3199e4cb02c86a81e04dc9, type: 2}
   materials:
-    materialImportMode: 0
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
