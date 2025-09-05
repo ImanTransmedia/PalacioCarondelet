@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: f873f4fddbeeb764a9175b06b60197d5, type: 2}
+  m_LightingDataAsset: {fileID: 112000000, guid: 4dff0db5f274e9445858a9026343fad6, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 8c3daa8c70fb4784e9d7bcd8a489bd08, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -9434,7 +9434,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8671275091516212424, guid: 2b20a17c5f687dd46b49e53d5458c7fb, type: 3}
       propertyPath: sceneAddress
-      value: PI_Principal
+      value: Assets/_Carondelet/Scenes/Armado De Escenas Final/Patio Interior INFERIOR.unity
       objectReference: {fileID: 0}
     - target: {fileID: 8671275091516212424, guid: 2b20a17c5f687dd46b49e53d5458c7fb, type: 3}
       propertyPath: nombreEscenario.m_TableEntryReference.m_KeyId
@@ -23400,7 +23400,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8936251460602509672, guid: 26df570b7af5ed2488a385e0c0f647cd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 83.66
+      value: 83
       objectReference: {fileID: 0}
     - target: {fileID: -8750791558794595249, guid: 26df570b7af5ed2488a385e0c0f647cd, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -23580,7 +23580,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -6852065033968990340, guid: 26df570b7af5ed2488a385e0c0f647cd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 83.66
+      value: 83
       objectReference: {fileID: 0}
     - target: {fileID: -6838999056747418010, guid: 26df570b7af5ed2488a385e0c0f647cd, type: 3}
       propertyPath: m_LocalPosition.x

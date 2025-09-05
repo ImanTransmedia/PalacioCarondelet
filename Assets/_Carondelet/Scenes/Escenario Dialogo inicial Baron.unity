@@ -1023,22 +1023,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 1385770072435890051, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1385770072435890051, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1385770072435890051, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1385770072435890051, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1575305287977002683, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
       propertyPath: m_Name
       value: Canva_accecibilidad
@@ -1169,22 +1153,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7753542541849651139, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7872920753449007947, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7872920753449007947, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7872920753449007947, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7872920753449007947, guid: a15aa075e770d3f4fa754488fa889bba, type: 3}
-      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1427,7 +1395,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isAccesible: 0
-  storedStrings: []
 --- !u!4 &951174287
 Transform:
   m_ObjectHideFlags: 0
@@ -2063,7 +2030,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 815cd6f82ecf0c74b8bbdf6a2f3e9017, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneAddress: MP_Maqueta
+  sceneAddress: Assets/_Carondelet/Scenes/Escenario 1 - Exterior del palacio.unity
 --- !u!114 &1453792960
 MonoBehaviour:
   m_ObjectHideFlags: 0

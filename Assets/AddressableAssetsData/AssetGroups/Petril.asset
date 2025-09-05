@@ -16,7 +16,7 @@ MonoBehaviour:
   m_GUID: 4a3772fc8908f574bbf39d4003fceca0
   m_SerializeEntries:
   - m_GUID: 40be047e73f895c4087a4a0f3e036946
-    m_Address: PT_Principal
+    m_Address: Assets/_Carondelet/Scenes/Armado De Escenas Final/Petril.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - default

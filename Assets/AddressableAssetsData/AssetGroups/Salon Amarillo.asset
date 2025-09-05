@@ -16,25 +16,28 @@ MonoBehaviour:
   m_GUID: ed8ca89c5c754b346be7448249bcc79d
   m_SerializeEntries:
   - m_GUID: 475f1696236ee3047bd6d9e8ff24d4a2
-    m_Address: SA_Subescena2
+    m_Address: Assets/_Carondelet/Scenes/Armado De Escenas Final/Salon Amarillo/Sub
+      escenas/salon_amarillo_subecena2.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9bbedf658f44811458506b56e5fd891d
-    m_Address: SA_Subescena1
+    m_Address: Assets/_Carondelet/Scenes/Armado De Escenas Final/Salon Amarillo/Sub
+      escenas/salon_amarillo_subecena1.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a728bb5a6a49b1943b108f42ce85948b
-    m_Address: SA_Subescena4
+    m_Address: Assets/_Carondelet/Scenes/Armado De Escenas Final/Salon Amarillo/Sub
+      escenas/salon_amarillo_subecena4.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e11a8ef7b1c79864f9d35963956fbd71
-    m_Address: SA_Principal
+    m_Address: Assets/_Carondelet/Scenes/Armado De Escenas Final/Salon Amarillo.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - default

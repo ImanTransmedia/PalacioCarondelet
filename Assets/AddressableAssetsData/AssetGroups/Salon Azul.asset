@@ -16,7 +16,7 @@ MonoBehaviour:
   m_GUID: e8cfaa9df3db052428ac46b4475cda28
   m_SerializeEntries:
   - m_GUID: a8b561426f57b69478dc794ba261b26c
-    m_Address: AZ_Principal
+    m_Address: Assets/_Carondelet/Scenes/Armado De Escenas Final/Salon Azul.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

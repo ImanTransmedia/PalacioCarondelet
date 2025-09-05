@@ -16,7 +16,7 @@ MonoBehaviour:
   m_GUID: 15ae69e4d3021f745b381d963ed31e4e
   m_SerializeEntries:
   - m_GUID: 48ffa247f9df74841a2de029a4a16272
-    m_Address: SG_Principal
+    m_Address: Assets/_Carondelet/Scenes/Armado De Escenas Final/Salon Gabinete.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
